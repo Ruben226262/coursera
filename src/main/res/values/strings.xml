@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">appse3co</string>
+    <string name="app_tittle">Welcome</string>
+    <string name="app_button">Enter</string>
+</resources>
